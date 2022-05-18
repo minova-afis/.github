@@ -1,1 +1,1 @@
-[Minova's Wurzel-Doku für github](https://github.com/minova-afis/aero.minova.doc)
+[Minova's Wurzel-Doku für Github](https://github.com/minova-afis/aero.minova.doc)
