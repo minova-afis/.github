@@ -13,4 +13,4 @@ assignees: ''
 **Beispiel/ Mockup:**
 
 
-Abrechnung={XXX/XXX/XXX/ZPROGRAMM}
+Abrechnung={XXX/XXX/XXX/ZPROGRAM}
