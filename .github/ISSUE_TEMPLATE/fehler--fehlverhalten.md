@@ -1,5 +1,5 @@
 ---
-name: Fehler/ Fehlverhalten
+name: Wartung
 about: Anmerkung eines Fehlers oder Fehlverhaltens
 title: ''
 labels: bug
