@@ -1,0 +1,8 @@
+ALS:
+MÖCHTE ICH:
+SO DASS:
+
+DETAILS: 
+
+
+Abrechnung={XXX/XXX/XXX/XXX}
