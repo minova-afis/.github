@@ -1,5 +1,5 @@
 ---
-name: Wartung
+name: Wartung/Fehler
 about: Anmerkung eines Fehlers oder Fehlverhaltens
 title: ''
 labels: bug
@@ -10,8 +10,7 @@ assignees: ''
 **Beschreibung:**
 
 
-**Nachstellen:**
-Schritte um das Verhalten/ den Fehler nachzustellen:
+**Schritte um das Verhalten/ den Fehler nachzustellen:**
 
 
 **Screenshots:**
