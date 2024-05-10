@@ -2,21 +2,21 @@
 name: Wartung/Fehler
 about: Anmerkung eines Fehlers oder Fehlverhaltens
 title: ''
-labels: bug
+labels: supportanfrage
 assignees: ''
 
 ---
 
-**Beschreibung:**
+## Beschreibung
 
 
-**Schritte um das Verhalten/ den Fehler nachzustellen:**
+## Schritte um das Verhalten/ den Fehler nachzustellen
 
 
-**Screenshots:**
+## Screenshots
 
 
-**Betriebssystem:**
+## Betriebssystem
 
 
 Abrechnung={XXX/XXX/XXX/ZWARTUNG}
