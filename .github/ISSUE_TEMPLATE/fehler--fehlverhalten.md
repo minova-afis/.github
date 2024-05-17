@@ -2,7 +2,7 @@
 name: Wartung/Fehler
 about: Anmerkung eines Fehlers oder Fehlverhaltens
 title: ''
-labels: supportanfrage
+labels: support call
 assignees: ''
 
 ---
