@@ -18,5 +18,6 @@ assignees: ''
 
 ## Betriebssystem
 
-
+<!--
 Abrechnung={XXX/XXX/XXX/ZWARTUNG}
+-->
