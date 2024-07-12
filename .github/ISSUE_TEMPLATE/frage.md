@@ -7,13 +7,9 @@ assignees: ''
 
 ---
 
-**Frage:**
+## Frage
 
 
-**Beispiele:**
-
-
-**Screenshots:**
 
 
 Abrechnung={XXX/XXX/XXX/ZANALYSE}
