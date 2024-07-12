@@ -10,14 +10,7 @@ assignees: ''
 ## Beschreibung
 
 
-## Schritte um das Verhalten/ den Fehler nachzustellen
-
-
-## Screenshots
-
-
-## Betriebssystem
-
+## Wer mus was tun? 
 <!--
 Abrechnung={XXX/XXX/XXX/ZWARTUNG}
 -->
