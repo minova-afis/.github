@@ -1,5 +1,5 @@
 <a href="https://www.minova.de/" >
-<img src="https://www.minova.de/files/Minova/Ueber_uns/minova-logo-105.svg" alt="logo" align="right"/>
+<img src="https://github.com/minova-afis/.github/blob/main/imgs/MINOVA.png" alt="logo" align="right" width="300"/>
 </a>
 
 
