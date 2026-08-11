@@ -10,7 +10,8 @@ assignees: ''
 ## Beschreibung 🗒️
 
 
-## Wer tut was um das Problem zu lösen ❓ 
+## Wer tut was um das Problem zu lösen❓
+
 <!--
 Abrechnung={XXX/XXX/XXX/ZWARTUNG}
 -->
